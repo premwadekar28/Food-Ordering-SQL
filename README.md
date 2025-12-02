@@ -85,5 +85,5 @@ The script also inserts **sample records** into each table so you can immediatel
 ### 1. Clone or download the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/premwadekar28/Food-Ordering-SQL.git>
+cd <https://github.com/premwadekar28/Food-Ordering-SQL>
